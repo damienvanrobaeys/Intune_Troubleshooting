@@ -1,0 +1,15 @@
+<Configuration>
+	<Azure_resourceGroupName></Azure_resourceGroupName>
+	<Azure_storageAccName></Azure_storageAccName>
+	<Azure_fileShareName></Azure_fileShareName>
+	<ApplicationId></ApplicationId>
+	<TenantId></TenantId>
+</Configuration>
+
+
+
+
+
+
+
+
